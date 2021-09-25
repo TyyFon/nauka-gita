@@ -1,0 +1,21 @@
+/*Variables*/
+$font-header: 'Lato' , 'sans-serif';
+$font-verse: 'Roboto Slab' , 'sans-serif';
+
+/*Text*/
+.text {
+  display: flex;
+  color: $color-main;
+
+}
+h3 {
+font-family: $font-header;
+font-size: 36px;
+}
+h1 {
+font-family: $font-header;
+font-size: 48px;
+}
+p {
+  font-size: 36px;
+}
