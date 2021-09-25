@@ -1,0 +1,13 @@
+/*Variables*/
+$font-header: 'Lato' , 'sans-serif';
+$font-vers: 'Roboto' , 'sans-serif';
+/*Autor nd title*/
+h1 {
+  font-size: 48px;
+  font: $font-header;
+}
+h3 {
+  font-size: 36px;
+  font: $font-header;
+  font-style: italic;
+}
